@@ -1,6 +1,5 @@
 # odin-recipes
-<<<<<<< HEAD
-A simple recipe project using HTML
-=======
+
 Simple Recipe Page Using HTML
->>>>>>> d7cbdad (Add README.md)
+
+Add files for recipe project
